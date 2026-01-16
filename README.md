@@ -1,7 +1,7 @@
 # 🎓 Scholar IF Viewer
 > **Google Scholar 검색 결과에서 저널의 위상을 한눈에 확인하세요.**
 
-Scholar IF Viewer는 연구자들이 논문의 신뢰도와 영향력을 즉각적으로 판단할 수 있도록 돕는 도구입니다. 구글 스칼라 검색 결과와 프로필 페이지에 **JCR 임팩트 팩터(IF)** 와 **분야 내 상위 백분율(Top %)** 을 실시간으로 표시합니다.
+Scholar IF Viewer는 연구자들이 논문의 신뢰도와 영향력을 즉각적으로 판단할 수 있도록 돕는 도구입니다. 구글 스칼라 검색 결과와 프로필 페이지에 **JCR 임팩트 팩터(IF)** 와 **분야 내 상위 백분율(Top %)** 을 실시간으로 표시합니다. 
 
 ---
 
@@ -37,4 +37,4 @@ Scholar IF Viewer는 연구자들이 논문의 신뢰도와 영향력을 즉각�
 * 공식 수치는 반드시 [JCR 공식 홈페이지](https://jcr.clarivate.com/)를 통해 확인하시기 바랍니다.
 
 ---
-© 2024 **Scholar IF Viewer Project**. All rights reserved.
+© 2026 **Scholar IF Viewer Project**. All rights reserved.
