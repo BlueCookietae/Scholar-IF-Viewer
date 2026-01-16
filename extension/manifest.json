@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Scholar Impact Factor Viewer",
+  "version": "1.2",
+  "description": "구글 스칼라(검색 및 프로필 페이지)에 저널 임팩트 팩터(IF)를 표시합니다.",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://scholar.google.com/scholar*",
+        "https://scholar.google.co.kr/scholar*",
+        "https://scholar.google.com/citations*",
+        "https://scholar.google.co.kr/citations*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["data.json"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

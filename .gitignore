@@ -1,0 +1,13 @@
+# 엑셀 원본 파일 제외
+*.xlsx
+*.csv
+
+# 파이썬 캐시 파일 제외
+__pycache__/
+*.pyc
+
+# 운영체제 임시 파일 (Mac용)
+.DS_Store
+
+# (선택 사항) 만약 data.json도 직접 생성하게 유도하고 싶다면 제외
+# extension/data.json
